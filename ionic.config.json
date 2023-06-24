@@ -1,0 +1,7 @@
+{
+  "name": "ChessSensei",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
